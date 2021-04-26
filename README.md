@@ -5,7 +5,7 @@
 
 **Here are examples of some of my work so that you can get a first impression of me and my skills.**
 
--  **My main skills:** Oracle Virtualbox / MySQL / HTML / Jira / TestRail / Postman / Katalon Recorder 
+- **My main skills:** Oracle Virtualbox / MySQL / HTML / Jira / TestRail / Postman / Katalon Recorder 
 - **I am looking for cooperation** in a dynamically developing IT company for the position of QA Engineer 
 - **How to reach me:** by my contacts, which I have listed below 
 
